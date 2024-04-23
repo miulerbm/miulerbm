@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Gope](https://www.linkedin.com/company/gope-app/)
 
-- 🌱 I’m currently learning **Vue, Angular, AWS.**
-
 - 👨‍💻 Visit me at [/miulerbm](https://miulerbm.vercel.app/)
 
-- 📫 How to reach me **miulerbm00@gmail.com**
+- 📫 Send me a message to **miulerbm00@gmail.com**
 
 - 📄 Know about my experiences [My resumee](https://drive.google.com/file/d/1mPAxMKi1W5rXFAjojRBVLVBJrM8mCbax/view)
 
