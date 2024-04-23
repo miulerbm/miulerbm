@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Vue, Angular, AWS.**
 
-- 👨‍💻 Visit me at [https://miulerbm.vercel.app/](https://miulerbm.vercel.app/)
+- 👨‍💻 Visit me at [/miulerbm](https://miulerbm.vercel.app/)
 
 - 📫 How to reach me **miulerbm00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mPAxMKi1W5rXFAjojRBVLVBJrM8mCbax/view](https://drive.google.com/file/d/1mPAxMKi1W5rXFAjojRBVLVBJrM8mCbax/view)
+- 📄 Know about my experiences [My resumee](https://drive.google.com/file/d/1mPAxMKi1W5rXFAjojRBVLVBJrM8mCbax/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
