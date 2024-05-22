@@ -1,6 +1,7 @@
 ### Hello! 👋
 
-I am **Miuler Blas** working as **Frontend Developer at Gope**. I am a **Software Developer**. **Skilled in React JS, React Native, Next.js, RESTfull API’s, User Experience, and Design.**
+I am **Miuler Blas** working as **Frontend Developer at Gope**. I am a **Software Developer** skilled in **React JS, React Native, Next.js, RESTful API’s, User Experience, and Design.**
+Besides my current focus on frontend engineering, I can also program in **Python, SQL, Java, C/C++, C#**.
 
 
 <br />
