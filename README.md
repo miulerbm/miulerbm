@@ -1,9 +1,9 @@
 ### Hello! 👋
 
-I am **Miuler Blas** and I currently work as **Frontend Developer at Keola Networks**. I am a **Software Developer** skilled in **React JS, React Native, Next.js, Angular, RESTful API’s, User Experience, and Design.**
+I am **Miuler Blas** and I currently work as **Software Developer at NTT DATA**. I am focused on the Front-End side, highly skilled in **React JS, React Native, Next.js, Angular, RESTful API’s integration, User Experience, and Clean Architectures.**
 
 
-Besides my current focus on frontend engineering, I can also program in **Python, SQL, Java, C/C++ and C#**.
+Besides my current focus, I can also program in **Python, SQL, Java, C/C++ and C#**.
 
 Get to know more of me in: <a target="_blank" href="https://miulerbm.vercel.app">/miulerbm</a>
 
